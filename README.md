@@ -12,3 +12,6 @@ Technologies Used
 HTML
 CSS (Styling)
 JavaScript (Logic and Interactivity)
+
+
+Live Hosting: https://timecolorfun.netlify.app/
